@@ -1,6 +1,6 @@
 {
   "name": "ember-addon-discovery",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Small description for ember-addon-discovery goes here",
   "private": true,
   "directories": {
@@ -16,7 +16,12 @@
   "engines": {
     "node": ">= 0.10.0"
   },
-  "author": "",
+  "keywords": [
+    "ember-addon",
+    "test",
+    "qbutton"
+  ],
+  "author": "denquick@gmail.com(denq)",
   "license": "MIT",
   "devDependencies": {
     "broccoli-asset-rev": "^2.0.2",
