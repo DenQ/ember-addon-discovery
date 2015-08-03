@@ -1,8 +1,8 @@
 {
   "name": "ember-addon-discovery",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Small description for ember-addon-discovery goes here",
-  "private": true,
+  "private": false,
   "directories": {
     "doc": "doc",
     "test": "tests"
