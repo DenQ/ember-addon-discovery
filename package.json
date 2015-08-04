@@ -1,6 +1,6 @@
 {
   "name": "ember-addon-discovery",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Small description for ember-addon-discovery goes here",
   "private": false,
   "directories": {
@@ -21,9 +21,6 @@
     "test",
     "qbutton"
   ],
-  "ember-addon": {
-    "configPath": "config"
-  },
   "author": "denquick@gmail.com(denq)",
   "license": "MIT",
   "devDependencies": {
